@@ -1,0 +1,17 @@
+{
+    "description": "A wildcard domain to host different university projects and websites",
+
+    "domain": "is-local.dev",
+    "subdomain": "*.tgv",
+
+    "owner": {
+        "repo": "https://github.com/thegavereguy/register",
+        "email": "dallacia.enrico@protonmail.com"
+    },
+
+    "record": {
+        "A": ["88.149.172.94"]
+    },
+
+    "proxied": false
+}
